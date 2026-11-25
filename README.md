@@ -1,112 +1,69 @@
-# Hi,
+<h1 align="center">Hi, I'm Azib Farooq 👋</h1>
 
-## About Me:
-
-- Interested in Data, AI, and software engineering.
-- GTA @Miami University.
-- Loves Coding.
-- Can play Chess.
-- Typing speed 80 WPM.
-  
-## Skill Set:
-
-<table><tr><td valign="top" width="25%">
-  
-### AI
-<a href="https://github.com/itsazibfarooq">
-<div align="center">
-       <img src="https://skillicons.dev/icons?i=pytorch,scikitlearn,opencv,numpy,pandas,matplotlib,pil,&perline=4" /> 
-</div>
-</a>
-</td><td valign="top" width="25%">
-
-### Frontend  
-<a href="https://github.com/itsazibfarooq">
-<div align="center">  
-       <img src="https://skillicons.dev/icons?i=html,css,js,nextjs,angular,react&perline=4" /> 
-</div>
-</a>
- </td><td valign="top" width="25%">
-        
-### Backend
-<a href="https://github.com/itsazibfarooq">
-<div align="center">
-       <img src="https://skillicons.dev/icons?i=nodejs,flask,docker,aws,gcp,kafka,rabbitmq,git,&perline=4" /> 
-</div>
-</a>
-
-</td>
-</tr>
-<tr><td valign="top" width="25%">
-
-### Code Editors  
-<a href="https://github.com/itsazibfarooq">
-<div align="center">  
-       <img src="https://skillicons.dev/icons?i=vscode,vim,pycharm,&perline=4" /> 
-</div>
-</a>
-</td><td valign="top" width="25%">
-
-### Languages 
-<a href="https://github.com/itsazibfarooq">
-<div align="center">  
-       <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,sql,&perline=4" /> 
-</div>
-</a>
- </td> 
-</tr>
-</table>
-
-
-## Connect with me:
-<div align="center">
-    <a href="https://www.linkedin.com/in/itsazibfarooq/" target="_blank"><img src="https://img.shields.io/badge/Azib%20Farooq-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-    <a target="_blank" href="mailto:azibfarooq10@gmail.com"><img src="https://img.shields.io/badge/-azibfarooq10@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-    <a href="https://leetcode.com/u/azibfarooq/" target="_blank"><img src="https://img.shields.io/badge/Azib%20Farooq-FFA116?style=flat&logo=LeetCode&logoColor=white"/></a>
-        <a href="https://medium.com/@azibfarooq10" target="_blank"><img src="https://img.shields.io/badge/Azib Farooq-3B5948?style=flat&logo=Medium&logoColor=white"/></a>
-</div>
-
- ## Github Stats:
 <p align="center">
-    <a href="https://github.com/itsazibfarooq">
-        <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=itsazibfarooq&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&hide_border=true"/>
-        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=itsazibfarooq&langs_count=12&layout=compact&langs_count=8&theme=onedark&include_all_commits=true&count_private=true&hide_border=true" />
-    </a>
-</p>
-<!-- Activity Graph -->
-<p align="center">
-  <a href="https://github.com/itsazibfarooq">
-    <img height=250 src="https://github-readme-activity-graph.vercel.app/graph?username=itsazibfarooq&bg_color=282c34&color=FDFD96&line=FDFD96&point=FFFFFF&area_color=79FE96&border_radius=24.5&title_color=FDFD96&border_radius=20px"/>
-  </a> 
+  <b>Ph.D. Student in Computer Engineering @ University of Central Florida</b><br/>
+  Vision-Language-Action Models · World Models · Reinforcement Learning · Efficient Inference
 </p>
 
+<p align="center">
+  <a href="https://itsazibfarooq.github.io"><img src="https://img.shields.io/badge/Website-itsazibfarooq.github.io-0A66C2?style=flat-square&logo=googlechrome&logoColor=white" alt="Website"/></a>
+  <a href="https://scholar.google.com/citations?user=LNWuVNkAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-Azib_Farooq-4285F4?style=flat-square&logo=googlescholar&logoColor=white" alt="Google Scholar"/></a>
+  <a href="https://www.linkedin.com/in/itsazibfarooq/"><img src="https://img.shields.io/badge/LinkedIn-itsazibfarooq-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:azibfaroq@gmail.com"><img src="https://img.shields.io/badge/Email-azibfaroq@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
- <p align="center">
-   <a href="https://github.com/itsazibfarooq"> 
-     <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=itsazibfarooq&show_icons=true&locale=en&layout=demo&theme=Onedark&hide_border=true" /> 
-   </a>  
- </p>
+---
 
-<br>
+### 🔬 About Me
 
-<div id="header" align="center">
-  
-  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itsazibfarooq" alt="itsazibfarooq" /></a> </p>
-  
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+I'm a Ph.D. student and **Graduate Trustee Fellow** at the [University of Central Florida](https://www.ucf.edu/), advised by [Dr. Nazanin Rahnavard](https://www.ece.ucf.edu/person/nazanin-rahnavard/) and [Dr. Mingyo Seo](https://www.ece.ucf.edu/person/mingyo-seo/). I received my M.S. in Computer Science from [Miami University](https://miamioh.edu/) and my B.Sc. in Electrical Engineering from UET Taxila.
 
-  <img src="https://komarev.com/ghpvc/?username=itsazibfarooq&style=for-the-badge&color=orange" alt=""/>
-</div>
+- 🤖 **Now:** making **vision-language-action (VLA)** inference faster with action-aware visual token reduction for flow-matching (π0, π0.5) and autoregressive action decoders
+- 🌍 **Also:** training robot policies on synthetic trajectories from **learned video world models**, to depend less on teleoperated demonstrations
+- ⚡ **Industry:** Research Assistant at **P&G Digital Accelerator** (on-device inference: INT8 quantization, pruning, distillation, TensorRT) · ML Engineer at **AlgoLab** (code-repair and tutoring agents)
+- 📝 **Service:** Reviewer for AAAI 2026/2027 and IJCNN 2026
 
-<h2  align="center">💻 Check Out My Repos ⬇️ </h2>
+---
 
-#
+### 📄 Selected Publications
 
-<!-- <div align="center">
-  <a href="https://github.com/itsazibfarooq">
-    <img src="https://quotes-github-readme.vercel.app/api?theme=dark">
-  </a>
- </div> -->
+| Venue | Paper | Links |
+|:---:|---|---|
+| **Information Fusion '26** | Evaluating and Regulating Agentic AI: A Study of Benchmarks, Metrics and Regulation | [Paper](https://www.sciencedirect.com/science/article/pii/S1566253526003246) · [Project](https://itsazibfarooq.github.io/agenticEvaluation/) |
+| **ACL '26** | Reducing Hallucinations in LLMs via Factuality-Aware Preference Learning | [arXiv](https://arxiv.org/abs/2601.03027) · [Code](https://github.com/VectorInstitute/Factual-Preference-Alignment) |
+| **ISCO '26** | A Machine Learning Framework for Dominating Set Variants in Combinatorial Optimization | [Paper](https://link.springer.com/chapter/10.1007/978-3-032-34519-6_11) · [Code](https://github.com/itsazibfarooq/dNN) |
+| **SMI '26** | PSF-4D: A Progressive Sampling Framework for View Consistent 4D Editing | [arXiv](https://arxiv.org/abs/2503.11044) |
+| **ECCV '24** | 3DEgo: 3D Editing on the Go! | [arXiv](https://arxiv.org/abs/2407.10102) · [Project](https://3dego.github.io/) |
 
+👉 Full list on my [website](https://itsazibfarooq.github.io/publications/) and [Google Scholar](https://scholar.google.com/citations?user=LNWuVNkAAAAJ&hl=en).
 
+---
 
+### 🛠️ Toolbox
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Triton-000000?style=flat-square&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TensorRT-76B900?style=flat-square&logo=nvidia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/vLLM-30A2FF?style=flat-square"/>
+  <img src="https://img.shields.io/badge/SLURM-2E8B57?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+</p>
+
+**Research areas:** Diffusion & video generation · World models · Flow matching · RL & planning · 3D/4D scene editing (NeRF, 3DGS) · Quantization, pruning & distillation · Large-scale training (DDP/FSDP)
+
+---
+
+### 📌 Featured Repositories
+
+- [**dataless**](https://github.com/itsazibfarooq/dataless): PyPI library of dataless neural networks for NP-hard graph problems
+- [**dNN**](https://github.com/itsazibfarooq/dNN): official code for our ISCO 2026 paper on dominating set variants
+- [**agenticEvaluation**](https://github.com/itsazibfarooq/agenticEvaluation): project page for our Information Fusion survey on evaluating agentic AI
+- [**agentic-metrics**](https://github.com/itsazibfarooq/agentic-metrics): lightweight harness for running GAIA and AssistantBench agent evaluations
+- [**100_Days_GenAI**](https://github.com/itsazibfarooq/100_Days_GenAI): generative models implemented from scratch (attention, SDEs, diffusion)
